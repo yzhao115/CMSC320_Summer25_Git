@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is an excellent tool in the tech world that can help with collaboration.
